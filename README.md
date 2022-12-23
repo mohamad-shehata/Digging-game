@@ -1,7 +1,7 @@
 # Digging-game
-I created this project to practice the oop principles.
+I have created this project to practice the oop principles.
 
-I used c++ to make sure that I would make everything in this game from scratch.
+I have used c++ console app to make sure that I would make everything in this game from scratch.
 
 ![2](https://user-images.githubusercontent.com/80628671/209336765-17e1e5aa-c551-43e6-a7df-166965865267.jpg)
 ![1](https://user-images.githubusercontent.com/80628671/209336782-d521b6a8-a40a-4f93-bda8-d36fce1e0e59.jpg)
