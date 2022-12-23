@@ -1,5 +1,6 @@
 # Digging-game
 I created this project to practice the oop principles.
+
 I used c++ to make sure that I would make everything in this game from scratch.
 
 ![2](https://user-images.githubusercontent.com/80628671/209336765-17e1e5aa-c551-43e6-a7df-166965865267.jpg)
